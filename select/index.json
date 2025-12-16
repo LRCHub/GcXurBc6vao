@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "カタオモイ",
+  "base_artist": "Aimer",
+  "createdAt": "2025-12-16T17:38:59.066807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カタオモイ",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_カタオモイ_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "HYADAIN",
+      "has_synced": true,
+      "path": "select/02_ヒャダインのカカカタ☆カタオモイ-C_HYADAIN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カタオモイ - From THE FIRST TAKE",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_カタオモイ_-_From_THE_FIRST_TAKE_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C (without ヒャダル子)",
+      "artist": "HYADAIN",
+      "has_synced": true,
+      "path": "select/04_ヒャダインのカカカタ☆カタオモイ-C_(without_ヒャダル子)_HYADAIN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カタオモイ",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_カタオモイ_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒャダル子のカカカタ☆カタオモイ-F",
+      "artist": "HYADAIN",
+      "has_synced": true,
+      "path": "select/06_ヒャダル子のカカカタ☆カタオモイ-F_HYADAIN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "麻衣のカカカタ☆カタオモイ-梵",
+      "artist": "HYADAIN",
+      "has_synced": false,
+      "path": "select/07_麻衣のカカカタ☆カタオモイ-梵_HYADAIN.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カタオモイ (Live in BUDOKAN blanc et noir)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_カタオモイ_(Live_in_BUDOKAN_blanc_et_noir)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "STUDIO TRAM",
+      "has_synced": false,
+      "path": "select/09_ヒャダインのカカカタ☆カタオモイ-C_STUDIO_TRAM.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/10_ヒャダインのカカカタ☆カタオモイ-C_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kataomoi (カタオモイ) (5th Anniversary Live ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/11_Kataomoi_(カタオモイ)_(5th_Anniversary_Live_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "カタオモイ",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/12_カタオモイ_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "カタオモイ (5th Anniversary Live ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/13_カタオモイ_(5th_Anniversary_Live_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Aimer 『カタオモイ』MUSIC VIDEO（FULL ver.）",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/14_Aimer_『カタオモイ』MUSIC_VIDEO(FULL_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ヒャダル子のカカカタ☆カタオモイ-F",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/15_ヒャダル子のカカカタ☆カタオモイ-F_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "カタオモイ - Kataomoi",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/16_カタオモイ_-_Kataomoi_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "HYADAIN",
+      "has_synced": true,
+      "path": "select/17_ヒャダインのカカカタ☆カタオモイ-C_HYADAIN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カタオモイ",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_カタオモイ_Aimer.txt"
+    }
+  ]
+}
